@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="preto">#1f2121</color>
+    <color name="roxoAzul">#141e38</color>
+    <color name="amarelo">#e6b833</color>
+    <color name="claro">#f5ecd1</color>
+    <color name="yellow">#ffff00</color>
+    <color name="branco"> #ffff</color>
+</resources>
