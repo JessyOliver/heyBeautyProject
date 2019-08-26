@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "738570632302",
+    "firebase_url": "https://heybeauty-b6b78.firebaseio.com",
+    "project_id": "heybeauty-b6b78",
+    "storage_bucket": "heybeauty-b6b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738570632302:android:f917061cba40b02c",
+        "android_client_info": {
+          "package_name": "br.com.heybeauty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738570632302-e0am7rrcdqplcjdqjjs57tfp0e5rhr59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.heybeauty",
+            "certificate_hash": "1bc2ed9d2839d39463ec1c6b1665ec4394badc9c"
+          }
+        },
+        {
+          "client_id": "738570632302-2uq0jlejnbud1kb99gurj4p95or68sl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwBdeOxZbsj4OxfR94sBQu9qKgfWvv6Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738570632302-2uq0jlejnbud1kb99gurj4p95or68sl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

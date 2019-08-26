@@ -1,16 +1,16 @@
-package br.com.etec;
+package br.com.heybeauty;
 
 import android.content.Intent;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
-import android.widget.TextView;
+import androidx.appcompat.app.AppCompatActivity;
+import br.com.heybeauty.cadastro.Cadastro;
 
 public class login_hb extends AppCompatActivity {
 
     Button btnEntrar;
-    TextView txCadastro;
+//    TextView txCadastro;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -18,15 +18,15 @@ public class login_hb extends AppCompatActivity {
         setContentView(R.layout.activity_login_hb);
 
             //Ir para a tela Home
-      /*  btnEntrar = (Button)findViewById(R.id.btnEntrar);
+        btnEntrar = (Button)findViewById(R.id.btnEntrar);
 
         btnEntrar.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent ip = new Intent(login_hb.this, home.class);
+                Intent ip = new Intent(login_hb.this, Cadastro.class);
                 startActivity(ip);
             }
-        });*/
+        });
 
      /* txCadastro = (TextView) findViewById(R.id.txtCadastro);
 

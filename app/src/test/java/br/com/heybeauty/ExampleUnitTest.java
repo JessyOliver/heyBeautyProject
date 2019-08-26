@@ -1,4 +1,4 @@
-package br.com.etec;
+package br.com.heybeauty;
 
 import org.junit.Test;
 

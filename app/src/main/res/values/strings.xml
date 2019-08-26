@@ -1,17 +1,21 @@
 <resources>
-    <string name="app_name">Hey Beauty</string>
+    <string name="app_name">Hey! Beauty</string>
+    <string name="welcome1">Bem Vindo!</string>
     <string name="intr"> Bem vindo ao Hey!Beauty</string>
     <string name="logar"> Como deseja logar?</string>
     <string name="ou"> OU</string>
     <string name="redes"> Redes Sociais</string>
-    <string name="com"> Login</string>
     <string name="login"> Login</string>
     <string name="user"> Usuário</string>
     <string name="senha"> Senha</string>
     <string name="Entrar"> Prosseguir</string>
     <string name="esqueceu">Esqueceu sua senha?</string>
     <string name="cadastro"> Novo por aqui? Cadastra-se</string>
-
+    
+    <string-array name="titles_tab">
+        <item>Usuário</item>
+        <item>Profissional</item>
+    </string-array>
 
 
 </resources>

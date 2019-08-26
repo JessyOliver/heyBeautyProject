@@ -1,9 +1,10 @@
-package br.com.etec;
+package br.com.heybeauty;
 
 import android.graphics.Color;
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 import gr.net.maroulis.library.EasySplashScreen;
 
@@ -18,8 +19,8 @@ public class SplashScreenActivity extends AppCompatActivity {
                 .withTargetActivity(MainActivity.class)
                 .withSplashTimeOut(2000)
                 .withBackgroundColor(Color.parseColor("#000000"))
-                .withBeforeLogoText("Bem Vindo!")
-                .withAfterLogoText("Hey!Beauty")
+                .withBeforeLogoText(getString(R.string.welcome1))
+                .withAfterLogoText(getString(R.string.app_name))
                 .withLogo(R.drawable.logo);
 
 

@@ -46,13 +46,13 @@
         <Button
             android:id="@+id/btnProximo"
             android:layout_width="match_parent"
-            android:layout_marginStart="20dp"
-            android:layout_marginEnd="20dp"
-            android:layout_marginTop="30dp"
             android:layout_height="50dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="30dp"
+            android:layout_marginEnd="20dp"
             android:background="@drawable/contorno"
-            android:textColor="@color/claro"
-            android:text="@string/com" />
+            android:text="@string/login"
+            android:textColor="@color/claro" />
 
         <TextView
             android:layout_width="match_parent"
